@@ -1,4 +1,3 @@
-printenv
 echo "this is a jenkins job"
 echo $USER
 echo $PATH
